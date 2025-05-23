@@ -94,7 +94,7 @@ edureka-data-science-diy/
 Aspiring Data Scientist | Data Analytics Enthusiast  
 - Passionate about transforming raw data into actionable insights  
 - Continuously learning and building hands-on projects  
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/sravya-togarla)  
+- Connect with me on [LinkedIn : (https://www.linkedin.com/in/sravya-togarla) ] 
 - Check out my GitHub: [https://github.com/Sravyatogarla](https://github.com/Sravyatogarla)
 
 ---
