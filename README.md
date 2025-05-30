@@ -34,10 +34,15 @@ The repo is organized by **topic** and **day-wise folders** to align with the co
 
 edureka-data-science-diy/
 │
+
 ├── 01_Python_Basics/
+
 │ ├── Day01/
+
 │ │ ├── Day01_DIY.ipynb
+
 │ │ └── dataset.csv
+
 │ ├── Day02/
 │ └── ...
 │
