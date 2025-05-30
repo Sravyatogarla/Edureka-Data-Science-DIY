@@ -33,6 +33,7 @@ The course is structured to build your skills progressively through day-wise DIY
 The repo is organized by **topic** and **day-wise folders** to align with the course timeline for easier navigation:
 
 edureka-data-science-diy/
+
 │
 
 ├── 01_Python_Basics/
@@ -44,28 +45,45 @@ edureka-data-science-diy/
 │ │ └── dataset.csv
 
 │ ├── Day02/
+
 │ └── ...
+
 │
+
 ├── 02_Probability_Statistics/
+
 │ ├── Day19/
+
 │ └── ...
-│
+
+│ ├── Day30/
+
 ├── 03_Supervised_Learning/
+
 │
+
 ├── 04_NLP/
+
 │
+
 ├── 05_Unsupervised_Learning/
+
 │
-├── 06_Model_Evaluation/
+
+├── 06_Model_Evaluation & Optimization/
+
 │
+
 ├── 07_Deep_Learning/
+
 │
+
 └── 08_Data_Visualization_Tableau/
 
 
 - Each `DayXX` folder contains:  
   - Jupyter Notebook file (`DayXX_DIY.ipynb`) with detailed solutions  
-  - Corresponding dataset (`dataset.csv`) used in the project
+  - Corresponding dataset (`dataset.csv`) or text files used in the project
 
 ---
 
@@ -121,6 +139,7 @@ Covers all key topics from beginner to advanced levels
 Ideal for learners who want a guided DIY project-based approach to mastering data science
 
 ---
+
 📢 Additional Information
 Datasets included are samples for learning purposes. For large or sensitive data, please refer to original course material.
 
